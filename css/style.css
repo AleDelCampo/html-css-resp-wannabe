@@ -85,12 +85,28 @@ img {
     margin-bottom: 1rem;
 }
 
+
+/*
 @media screen and (min-width: 480px) {
     
    .container {
         width: 100%;
    }
 
+   body {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        
+   }
+
+}
+*/
+
+@media screen and (max-width: 1140px) {
+    .container {
+        width: auto;
+    }
 }
 
 
