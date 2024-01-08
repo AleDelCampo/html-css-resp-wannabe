@@ -85,6 +85,18 @@ img {
     margin-bottom: 1rem;
 }
 
+@media screen and (min-width: 480px) {
+    
+   .container {
+        width: 100%;
+   }
+
+}
+
+
+
+
+
 /* STEPS SECTION */
 .steps {
     margin: 3rem 0;
